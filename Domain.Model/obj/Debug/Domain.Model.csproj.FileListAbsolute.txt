@@ -1,0 +1,6 @@
+C:\Users\mmenna\source\repos\GestionDeInformes\Domain.Model\bin\Debug\Domain.Model.dll
+C:\Users\mmenna\source\repos\GestionDeInformes\Domain.Model\bin\Debug\Domain.Model.pdb
+C:\Users\mmenna\source\repos\GestionDeInformes\Domain.Model\obj\Debug\Domain.Model.csprojAssemblyReference.cache
+C:\Users\mmenna\source\repos\GestionDeInformes\Domain.Model\obj\Debug\Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\mmenna\source\repos\GestionDeInformes\Domain.Model\obj\Debug\Domain.Model.dll
+C:\Users\mmenna\source\repos\GestionDeInformes\Domain.Model\obj\Debug\Domain.Model.pdb

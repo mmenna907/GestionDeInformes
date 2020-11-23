@@ -1,0 +1,13 @@
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\bin\Debug\aplication.dll
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\bin\Debug\aplication.pdb
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\obj\Debug\aplication.csprojAssemblyReference.cache
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\obj\Debug\aplication.csproj.CoreCompileInputs.cache
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\obj\Debug\aplication.dll
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\obj\Debug\aplication.pdb
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\bin\Debug\Domain.Model.dll
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\bin\Debug\Infra.DataAccess.dll
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\bin\Debug\Dapper.dll
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\bin\Debug\Domain.Model.pdb
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\bin\Debug\Infra.DataAccess.pdb
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\bin\Debug\Dapper.xml
+C:\Users\mmenna\source\repos\GestionDeInformes\aplication\obj\Debug\aplication.csproj.CopyComplete
