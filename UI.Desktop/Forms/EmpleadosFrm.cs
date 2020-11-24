@@ -26,18 +26,7 @@ namespace UI.Desktop.Forms
 
         private void GetEmpleados()
         {
-            var empleados = new EmpleadoService().GetEmpleados();
-            List<EpleadoViewModel> empleadosViewModel = new List<EpleadoViewModel>();
-            foreach (var item in empleados)
-            {
-                empleadosViewModel.Add(new EpleadoViewModel
-                {
-                    Legajo = item.Legajo,
-                    Nombre = item.Nombre,
-                    DNI = item.Dni
-                });
-            }
-            gridEmpleados.DataSource=empleadosViewModel;
+            gridEmpleados.DataSource= new EmpleadoService().GetEmpleados();
         }
     }
 }

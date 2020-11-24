@@ -13,5 +13,10 @@ namespace Domain.Model.Entities
         public string Nombre { get; set; }
         public string Dni { get; set; }
         public string Direccion { get; set; }
+
+        public override string ToString()
+        {
+            return Legajo + " " + Nombre;
+        }
     }
 }

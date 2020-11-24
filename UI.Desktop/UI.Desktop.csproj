@@ -73,6 +73,9 @@
     <EmbeddedResource Include="Forms\EmpleadosFrm.resx">
       <DependentUpon>EmpleadosFrm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InformesFrm.resx">
+      <DependentUpon>InformesFrm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\PrincipalFrm.resx">
       <DependentUpon>PrincipalFrm.cs</DependentUpon>
     </EmbeddedResource>

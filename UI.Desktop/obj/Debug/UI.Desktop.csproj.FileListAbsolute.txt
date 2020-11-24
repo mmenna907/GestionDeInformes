@@ -18,3 +18,4 @@ C:\Users\mmenna\source\repos\GestionDeInformes\UI.Desktop\bin\Debug\aplication.p
 C:\Users\mmenna\source\repos\GestionDeInformes\UI.Desktop\bin\Debug\Domain.Model.pdb
 C:\Users\mmenna\source\repos\GestionDeInformes\UI.Desktop\bin\Debug\Infra.DataAccess.pdb
 C:\Users\mmenna\source\repos\GestionDeInformes\UI.Desktop\obj\Debug\UI.Desktop.Forms.EmpleadosFrm.resources
+C:\Users\mmenna\source\repos\GestionDeInformes\UI.Desktop\obj\Debug\UI.Desktop.Forms.InformesFrm.resources

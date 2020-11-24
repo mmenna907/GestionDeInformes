@@ -10,6 +10,10 @@ namespace UI.Desktop.ViewModels
     {
         public int Legajo { get; set; }
         public string Nombre { get; set; }
-        public string DNI { get; set; }
+
+        public override string ToString()
+        {
+            return Nombre;
+        }
     }
 }
